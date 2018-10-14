@@ -5,7 +5,7 @@ export function Header() {
     <nav className="navbar navbar-dark navbar-expand-lg">
       <div className="container">
         <Link to="/rentals" className="navbar-brand">
-          BookWithMe
+          Book With Me
         </Link>
         <form className="form-inline my-2 my-lg-0">
           <input
